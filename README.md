@@ -23,14 +23,14 @@ The quantitative performance of the model is exhibited in the table below.
 
 Metrics | Test Dataset |
 ------------ | ------------- |
-Color Constancy Loss |  0.063 |
-Exposure Loss | 0.385 |
-Illumination Smoothness Loss | 0.102 |
+Color Constancy Loss |  0.065 |
+Exposure Loss | 0.391 |
+Illumination Smoothness Loss | 0.094 |
 Spatial Consistency Loss | 0.042 |
 Total Loss | 0.592 |
-PSNR | 13.652 |
-SSIM | 0.662 |
-MAE | 0.169 |
+PSNR | 13.646 |
+SSIM | 0.663 |
+MAE | 0.170 |
 
 
 ## Evaluation Metrics Curve
